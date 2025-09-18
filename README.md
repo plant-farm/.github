@@ -6,10 +6,9 @@
 
 ## 프로젝트 소개
 
-- README는 책을 좋아하는 사람들이 자신의 책 취향을 공유하고, 다 읽은 책을 판매할 수 있는 SNS입니다.
-- 개인의 프로필 페이지에 좋아하는 구절 등 책에 대한 정보를 작성하고 판매하고 싶은 책을 등록할 수 있습니다.
-- 검색을 통해 책 취향이 비슷한 다른 유저들의 피드를 구경할 수 있습니다.
-- 다양한 유저들을 팔로우하며 마음에 드는 게시글에 좋아요를 누르거나 댓글을 작성할 수 있습니다.
+- plant-farm은 비건·플렉시테리언·건강을 중시하는 소비자와 비건 식당 사장님을 위한 식물성 식품 전용 이커머스 & 데이터 기반 플랫폼입니다.
+- 우리는 단순히 상품을 판매하는 것을 넘어, 탄소 절감·건강 점수·지역 비건 식당 네트워크를 연결하여 식물성 식품을 통해 사람들의 건강과 지구의 건강을 함께 지켜나갑니다.
+
 
 <br>
 
@@ -19,7 +18,7 @@
 
 | **강두현** | **김태윤** | **최찬미** | **지창언** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @뚜뚜](https://github.com/ocean1229-github) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @양털](https://github.com/k0278kim) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @도다리](https://github.com/) | [<img src="https://avatars.githubusercontent.com/u/76766459?v=4" height=150 width=150> <br/> @찾고있습니다.]() |
+| [<img src="" height=150 width=150> <br/> @뚜뚜](https://github.com/ocean1229-github) | [<img src="" height=150 width=150> <br/> @양털](https://github.com/k0278kim) | [<img src="" height=150 width=150> <br/> @도다리](https://github.com/) | [<img src="" height=150 width=150> <br/> @찾고있습니다.]() |
 
 </div>
 
@@ -31,20 +30,11 @@
 
 | **SDG 3** | **SDG 12** | **SDG 13** | **SDG 17** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> 건강과 웰빙] | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> 책임 있는 소비와 생산] | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> 기후 행동] | [<img src="https://avatars.githubusercontent.com/u/76766459?v=4" height=150 width=150> <br/> 파트너십] |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sustainable_Development_Goal_03GoodHealth.svg/1200px-Sustainable_Development_Goal_03GoodHealth.svg.png" height=150 width=150> <br/> 건강과 웰빙 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sustainable_Development_Goal_12ResponsibleConsumption.svg/1200px-Sustainable_Development_Goal_12ResponsibleConsumption.svg.png" height=150 width=150> <br/> 책임 있는 소비와 생산 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sustainable_Development_Goal_13Climate.svg/2048px-Sustainable_Development_Goal_13Climate.svg.png" height=150 width=150> <br/> 기후 행동 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sustainable_Development_Goal_17Partnerships.svg/1200px-Sustainable_Development_Goal_17Partnerships.svg.png" height=150 width=150> <br/> 파트너십 |
 
 </div>
 
-🌱 plant-farm
-
-“건강과 지구를 지키는 식물성 식품 플랫폼”
-
-📌 개요
-
-VegeMate는 비건·플렉시테리언·건강을 중시하는 소비자와 비건 식당 사장님을 위한 식물성 식품 전용 이커머스 & 데이터 기반 플랫폼입니다.
-우리는 단순히 상품을 판매하는 것을 넘어, 탄소 절감·건강 점수·지역 비건 식당 네트워크를 연결하여 개인과 사회의 지속가능성을 함께 키워가는 서비스를 제공합니다.
-
-⸻
+<br>
 
 🚩 문제 인식
 	•	건강 문제: WHO는 가공육을 1급 발암물질, 적색육을 2급 발암물질로 분류. 그러나 여전히 한국 사회에서 식물성 식품은 접근성·인지도가 낮음.
