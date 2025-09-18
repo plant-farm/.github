@@ -9,9 +9,8 @@
 Plant-Farm은 비건·플렉시테리언·건강을 중시하는 소비자와 비건 식당 사장님을 위한  
 <b>식물성 식품 전용 이커머스 & 데이터 기반 플랫폼</b>입니다.  
 
-우리는 단순히 상품을 판매하는 것을 넘어,  
-탄소 절감·건강 점수·지역 비건 식당 네트워크를 연결하여  
-사람들의 건강과 지구의 건강을 함께 지켜나갑니다.
+우리는 단순히 상품을 판매하는 것을 넘어, 탄소 절감·건강 점수·지역 비건 식당 네트워크를 연결하여  
+<b>사람들의 건강과 지구의 건강</b>을 함께 지켜나갑니다.
 </div>
 
 ---
@@ -43,7 +42,7 @@ Plant-Farm은 비건·플렉시테리언·건강을 중시하는 소비자와 �
 - **솔루션**  
   1. 식물성 식품 전용 이커머스  
   2. 구매 시 탄소 절감 점수 + 건강 점수 제공  
-  3. 커뮤니티 & 랭킹 기능 (환경 기여도 게이미피케이션, 식당 홍보 연계)  
+  3. 랭킹 기능 (환경 기여도 게이미피케이션, 식당 홍보 연계)  
   4. 비건 식당 지도 서비스 (100%/80% 라벨링 포함)  
 
 ---
@@ -54,11 +53,10 @@ Plant-Farm은 비건·플렉시테리언·건강을 중시하는 소비자와 �
 ---
 
 ## 4. 🔑 주요 기능
-
-- **이커머스**: 비건·플랜트베이스드 식품만 판매  
-- **탄소/건강 점수**: 소비자가 자신의 기여도 체감 가능  
-- **랭킹 & 보상**: 탄소 절감 순위 공개, 식당 사장님 홍보 및 리워드 제공  
 - **비건 식당 지도**: 주변 식당 검색 및 메뉴 라벨링 제공  
+- **이커머스**: 비건·플랜트베이스드 식품만 판매  
+- **탄소/건강 점수**: 소비자가 자신의 탄소 절감 기여도 및 건강 점수 체감 가능
+- **랭킹 & 보상**: 탄소 절감 순위 공개, 식당 사장님 홍보 및 리워드 제공  
 
 ---
 
@@ -74,8 +72,17 @@ Plant-Farm은 비건·플렉시테리언·건강을 중시하는 소비자와 �
 
 ---
 
-## 6. 🛠 기술 스택
-> 기술 스택을 작성해주세요. (예: Next.js, React, TypeScript, Supabase 등)
+## 6. 🌍 SDGs 연결
+
+<div align="center">
+
+| **SDG 3** | **SDG 12** | **SDG 13** | **SDG 17** |
+| :------: |  :------: | :------: | :------: |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Sustainable_Development_Goal_03GoodHealth.svg" height=130 width=130> <br/> 건강과 웰빙 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Sustainable_Development_Goal_12ResponsibleConsumption.svg" height=130 width=130> <br/> 책임 있는 소비와 생산 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sustainable_Development_Goal_13Climate.svg" height=130 width=130> <br/> 기후 행동 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sustainable_Development_Goal_17Partnerships.svg" height=130 width=130> <br/> 파트너십 |
+
+
+## 7. 🛠 기술 스택
+Next.js, React, TypeScript, Supabase
 
 ---
 
