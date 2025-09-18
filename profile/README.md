@@ -18,9 +18,9 @@ Plant-Farm은 비건·플렉시테리언·건강을 중시하는 소비자와 �
 1. [프로젝트 개요](#-프로젝트-개요)  
 2. [프로젝트 소개](#-프로젝트-소개)  
 3. [프로젝트 목표](#-프로젝트-목표)  
-4. [주요 기능](#-주요-기능)  
-5. [팀원 소개](#-팀원-소개)  
-6. [SDGs](#-sdgs-연결)  
+4. [SDGs](#-sdgs-연결)  
+5. [주요 기능](#-주요-기능)  
+6. [팀원 소개](#-팀원-소개)   
 7. [기술 스택](#-기술-스택)  
 8. [Vision](#-vision)  
 
@@ -57,27 +57,7 @@ Plant-Farm은 비건·플렉시테리언·건강을 중시하는 소비자와 �
 
 ---
 
-## 4. 주요 기능
-- **비건 식당 지도**: 주변 식당 검색 및 메뉴 라벨링 제공  
-- **이커머스**: 비건·플랜트베이스드 식품만 판매  
-- **탄소/건강 점수**: 소비자가 자신의 탄소 절감 기여도 및 건강 점수 체감 가능  
-- **랭킹 & 보상**: 탄소 절감 순위 공개, 식당 사장님 홍보 및 리워드 제공  
-
----
-
-## 5. 팀원 소개
-
-<div align="center">
-
-| **강두현** | **김태윤** | **최찬미** | **Empty** |
-| :------: |  :------: | :------: | :------: |
-| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7H4ybAEwnTyj93alV09NDtgzGAYJEYTyr_A&s" height=150 width=150> <br/> @뚜뚜](https://github.com/ocean1229-github) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Kgu7JhIWgBwD1nfxPAezEUD5qom-BG7qmA&s" height=150 width=150> <br/> @양털](https://github.com/k0278kim) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXY5tOkQ1SAEU7jzLVOQG6IYbsKL_rFaM-Qw&s" height=150 width=150> <br/> @도다리](https://github.com/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppk1mHUY-UObgusL7Pa8XE-8CJL15Qdb3lQ&s" height=150 width=150> <br/> @찾고있습니다.]() |
-
-</div>
-
----
-
-## 6. SDGs 연결
+## 4. SDGs 연결
 
 <div align="center">
 
@@ -91,6 +71,26 @@ Plant-Farm은 비건·플렉시테리언·건강을 중시하는 소비자와 �
 - **SDG 12 (책임 있는 소비와 생산):** 지속 가능한 식품 유통망 구축  
 - **SDG 13 (기후 행동):** 탄소 절감 효과 데이터화  
 - **SDG 17 (파트너십):** 비건 식당·푸드 기업과 협력 생태계 구축  
+
+---
+
+## 5. 주요 기능
+- **비건 식당 지도**: 주변 식당 검색 및 메뉴 라벨링 제공  
+- **이커머스**: 비건·플랜트베이스드 식품만 판매  
+- **탄소/건강 점수**: 소비자가 자신의 탄소 절감 기여도 및 건강 점수 체감 가능  
+- **랭킹 & 보상**: 탄소 절감 순위 공개, 식당 사장님 홍보 및 리워드 제공  
+
+---
+
+## 6. 팀원 소개
+
+<div align="center">
+
+| **강두현** | **김태윤** | **최찬미** | **Empty** |
+| :------: |  :------: | :------: | :------: |
+| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7H4ybAEwnTyj93alV09NDtgzGAYJEYTyr_A&s" height=150 width=150> <br/> @뚜뚜](https://github.com/ocean1229-github) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Kgu7JhIWgBwD1nfxPAezEUD5qom-BG7qmA&s" height=150 width=150> <br/> @양털](https://github.com/k0278kim) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXY5tOkQ1SAEU7jzLVOQG6IYbsKL_rFaM-Qw&s" height=150 width=150> <br/> @도다리](https://github.com/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppk1mHUY-UObgusL7Pa8XE-8CJL15Qdb3lQ&s" height=150 width=150> <br/> @찾고있습니다.]() |
+
+</div>
 
 ---
 
