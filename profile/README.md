@@ -17,7 +17,7 @@
 
 <div align="center">
 
-| **강두현** | **김태윤** | **최찬미** | **지창언** |
+| **강두현** | **김태윤** | **최찬미** | **Empty** |
 | :------: |  :------: | :------: | :------: |
 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7H4ybAEwnTyj93alV09NDtgzGAYJEYTyr_A&s" height=150 width=150> <br/> @뚜뚜](https://github.com/ocean1229-github) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Kgu7JhIWgBwD1nfxPAezEUD5qom-BG7qmA&s" height=150 width=150> <br/> @양털](https://github.com/k0278kim) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXY5tOkQ1SAEU7jzLVOQG6IYbsKL_rFaM-Qw&s" height=150 width=150> <br/> @도다리](https://github.com/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppk1mHUY-UObgusL7Pa8XE-8CJL15Qdb3lQ&s" height=150 width=150> <br/> @찾고있습니다.]() |
 
@@ -102,13 +102,4 @@
 
 ## 🚀 향후 비전
 
-- 한국 내 **비건 식품 접근성 확대** → “비건을 선택하기 쉽게 만든다.”  
-- 데이터 기반 **탄소 절감 지표화** → “환경 기여를 눈에 보이게 만든다.”  
-- 글로벌 확장 → 아시아권 **비건 식품 허브**로 성장  
-
----
-
-## ✨ 한 문장으로
-
-👉 우리는 단순히 식품을 파는 것이 아니라,  
-**“건강한 선택이 곧 지구를 지키는 선택”**이 되도록 돕는 플랫폼입니다.
+> **우리는 사람과 지구가 함께 건강해지는 세상을 만듭니다.** 
