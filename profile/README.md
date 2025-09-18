@@ -18,7 +18,7 @@
 
 | **강두현** | **김태윤** | **최찬미** | **지창언** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="" height=150 width=150> <br/> @뚜뚜](https://github.com/ocean1229-github) | [<img src="" height=150 width=150> <br/> @양털](https://github.com/k0278kim) | [<img src="" height=150 width=150> <br/> @도다리](https://github.com/) | [<img src="" height=150 width=150> <br/> @찾고있습니다.]() |
+| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7H4ybAEwnTyj93alV09NDtgzGAYJEYTyr_A&s" height=150 width=150> <br/> @뚜뚜](https://github.com/ocean1229-github) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Kgu7JhIWgBwD1nfxPAezEUD5qom-BG7qmA&s" height=150 width=150> <br/> @양털](https://github.com/k0278kim) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXY5tOkQ1SAEU7jzLVOQG6IYbsKL_rFaM-Qw&s" height=150 width=150> <br/> @도다리](https://github.com/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppk1mHUY-UObgusL7Pa8XE-8CJL15Qdb3lQ&s" height=150 width=150> <br/> @찾고있습니다.]() |
 
 </div>
 
@@ -33,6 +33,13 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sustainable_Development_Goal_03GoodHealth.svg/1200px-Sustainable_Development_Goal_03GoodHealth.svg.png" height=150 width=150> <br/> 건강과 웰빙 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sustainable_Development_Goal_12ResponsibleConsumption.svg/1200px-Sustainable_Development_Goal_12ResponsibleConsumption.svg.png" height=150 width=150> <br/> 책임 있는 소비와 생산 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sustainable_Development_Goal_13Climate.svg/2048px-Sustainable_Development_Goal_13Climate.svg.png" height=150 width=150> <br/> 기후 행동 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sustainable_Development_Goal_17Partnerships.svg/1200px-Sustainable_Development_Goal_17Partnerships.svg.png" height=150 width=150> <br/> 파트너십 |
 
 </div>
+
+<br>
+
+- SDG 3 (건강과 웰빙): 가공육·적색육 대체, 건강한 식습관 확산.
+- SDG 12 (책임 있는 소비와 생산): 지속 가능한 식품 유통망.
+- SDG 13 (기후 행동): 탄소 절감 효과 데이터화.
+- SDG 17 (파트너십): 비건 식당·푸드 기업과 협력 생태계 구축.
 
 <br>
 
