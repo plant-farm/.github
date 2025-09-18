@@ -1,6 +1,6 @@
 # 🌱 Plant-Farm
 
-![readme_image](/Users/kangdoohyen/Desktop/1/COCONE/COCONE_plant-farm/plant-farm/profile/Green bite.png)
+![readme_image](https://raw.githubusercontent.com/plant-farm/.github/refs/heads/main/profile/Green%20bite.png)
 
 ---
 
