@@ -54,8 +54,7 @@ Plant-Farm은 비건·플렉시테리언·건강을 중시하는 소비자와 �
 ---
 
 ## 3. 🎯 프로젝트 목표
-> **“Plant-Farm은 개인의 건강과 지구 환경을 지키기 위해  
-식물성 식품 접근성을 높이고, 지속 가능한 식문화를 확산시키는 것을 목표로 합니다.”**
+> **“Plant-Farm은 개인의 건강과 지구 환경을 지키기 위해 식물성 식품 접근성을 높이고, 지속 가능한 식문화를 확산시키는 것을 목표로 합니다.”**
 
 ---
 
@@ -87,12 +86,12 @@ Plant-Farm은 비건·플렉시테리언·건강을 중시하는 소비자와 �
 | :------: |  :------: | :------: | :------: |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Sustainable_Development_Goal_03GoodHealth.svg" height=150 width=150> <br/> 건강과 웰빙 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Sustainable_Development_Goal_12ResponsibleConsumption.svg" height=150 width=150> <br/> 책임 있는 소비와 생산 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sustainable_Development_Goal_13Climate.svg" height=150 width=150> <br/> 기후 행동 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sustainable_Development_Goal_17Partnerships.svg" height=150 width=150> <br/> 파트너십 |
 
+</div>	
+
 - **SDG 3 (건강과 웰빙):** 가공육·적색육 대체, 건강한 식습관 확산  
 - **SDG 12 (책임 있는 소비와 생산):** 지속 가능한 식품 유통망 구축  
 - **SDG 13 (기후 행동):** 탄소 절감 효과 데이터화  
 - **SDG 17 (파트너십):** 비건 식당·푸드 기업과 협력 생태계 구축  
-
-</div>
 
 ---
 
