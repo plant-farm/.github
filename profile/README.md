@@ -9,9 +9,7 @@
 > Plant-Farm은 **비건·플렉시테리언·건강을 중시하는 소비자**와 **비건 식당 사장님**을 위한  
 > **식물성 식품 전용 이커머스 & 데이터 기반 플랫폼**입니다.  
 
-### ✅ 우리는 단순히 상품을 판매하는 것을 넘어,  
-**탄소 절감·건강 점수·지역 비건 식당 네트워크**를 연결하여  
-사람들의 건강과 지구의 건강을 함께 지켜나갑니다.
+## ✅ 우리는 단순히 상품을 판매하는 것을 넘어, **탄소 절감·건강 점수·지역 비건 식당 네트워크**를 연결하여 사람들의 건강과 지구의 건강을 함께 지켜나갑니다.
 
 ---
 
@@ -91,7 +89,7 @@
 
 | **SDG 3** | **SDG 12** | **SDG 13** | **SDG 17** |
 | :------: |  :------: | :------: | :------: |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Sustainable_Development_Goal_03GoodHealth.svg" height=120> <br/> 건강과 웰빙 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Sustainable_Development_Goal_12ResponsibleConsumption.svg" height=120> <br/> 책임 있는 소비와 생산 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sustainable_Development_Goal_13Climate.svg" height=120> <br/> 기후 행동 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sustainable_Development_Goal_17Partnerships.svg" height=120> <br/> 파트너십 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Sustainable_Development_Goal_03GoodHealth.svg" height=130 width=130> <br/> 건강과 웰빙 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Sustainable_Development_Goal_12ResponsibleConsumption.svg" height=130 width=130> <br/> 책임 있는 소비와 생산 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sustainable_Development_Goal_13Climate.svg" height=130 width=130> <br/> 기후 행동 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sustainable_Development_Goal_17Partnerships.svg" height=130 width=130> <br/> 파트너십 |
 
 </div>
 
